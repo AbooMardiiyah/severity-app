@@ -1,1 +1,1 @@
-# severity-app
+# Severity-classifier-app
